@@ -36,7 +36,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "elmark_cv_aplikacja",
+    "name": "asc_cv_aplikacja",
     "versionFirst": "5.7.12",
     "siteFonts": [
       {
@@ -53,7 +53,7 @@
       "currency": "USD"
     },
     "favicon": false,
-    "mbrsiteDomain": "8etoeuw1f0",
+    "mbrsiteDomain": "wqdabfm3wb",
     "usedWebp": true,
     "cssOptimize": true,
     "lazyLoad": true,
@@ -70,7 +70,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "CV-ELMARK-KG",
+        "title": "CV-ASC-KG",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
